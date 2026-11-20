@@ -12,7 +12,7 @@
 
 [![Watch the video](https://img.shields.io/badge/▶_Watch_Project_Walkthrough-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_GOOGLE_DRIVE_LINK_HERE)
 
-👉 **Video link:** [YOUR_GOOGLE_DRIVE_LINK_HERE](YOUR_GOOGLE_DRIVE_LINK_HERE)
+👉 **Video link:** https://drive.google.com/file/d/1rBpyqneQIENbdkn9_dPXoYPRnApASQCl/view?usp=sharing
 
 > 🚧 Video coming soon. A full walkthrough of the data, models, results and business insights.
 
